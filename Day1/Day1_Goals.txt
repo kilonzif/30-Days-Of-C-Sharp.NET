@@ -1,0 +1,60 @@
+
+Getting Started with C#
+
+--- Understand the basics of C#- history, what it's about, how it is used 
+--- Brief about the the basic syntax of 'system, namespaces, console.write, readline
+--Comments (single/multi-line)
+--Documentation 
+--How to set up C# Console apps (downloading dotnet as per your machine)
+
+--Microsoft role in C# Development
+
+
+About C#
+
+C# is a powerful Object Orientated language, for those coming from Java or C++ you should be
+able to pick up the syntax for C# quickly. A few points:
+ The language is case-sensitive (So A and a are different)
+ Lines terminate with semi-colons
+ Code is put in code blocks { }
+ Inline comments start with //
+ Block comments start with /* */
+ XML comments start with ///
+
+
+
+
+Basic Structure 
+Every C# program uses this foundational structure. This forms the skeleton of your application. The Program.cs file is the foundation of most C# project types.
+
+
+using System; // 'using' allows for easier access to types in a namespace.
+
+namespace YourNamespace // Namespaces organize code and prevent naming collisions.
+{
+    class YourClass // A 'class' defines the blueprint of objects.
+    {
+        static void Main(string[] args) // 'Main' is where the program starts execution.
+        {
+            Console.WriteLine("Hello, World!"); // Displays text in the console.
+        }
+    }
+}
+
+---about the code ---
+
+The given code is a simple C# program that prints "Hello, World!" to the console. Here's a breakdown of the code:
+
+using System;: This line is used to include the System namespace, which contains the Console class that allows for input and output operations.
+
+namespace YourNamespace: This line declares a namespace called YourNamespace. Namespaces are used to organize code and prevent naming collisions.
+
+class YourClass: This line declares a class called YourClass. Classes are used to define the blueprint of objects in C#.
+
+static void Main(string[] args): This line declares the Main method, which is the entry point for the program. It has a parameter of type string array (string[] args).
+
+{}: These curly braces enclose the body of the Main method.
+
+Console.WriteLine("Hello, World!");: This line uses the Console.WriteLine method to display the text "Hello, World!" in the console.
+
+The code is a basic example of a C# console application that demonstrates how to output text to the console.
