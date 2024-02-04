@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ObjectsAndClasses
+namespace ArraysAndLists
+
 {
     /// <summary>
     /// This namespace contains a collection of methods for Classes and Objects in C#.

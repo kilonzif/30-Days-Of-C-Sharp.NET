@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\C#Basics\\LearningCSharp\\DotNet6\\Finished\\Strings\\Formatting\\Formatting.csproj",
-      "projectName": "Formatting",
-      "projectPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\C#Basics\\LearningCSharp\\DotNet6\\Finished\\Strings\\Formatting\\Formatting.csproj",
+      "projectUniqueName": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day7\\ArraysAndLists\\Strings.csproj",
+      "projectName": "Strings",
+      "projectPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day7\\ArraysAndLists\\Strings.csproj",
       "packagesPath": "C:\\Users\\faith.kilonzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\C#Basics\\LearningCSharp\\DotNet6\\Finished\\Strings\\Formatting\\obj\\",
+      "outputPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day7\\ArraysAndLists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faith.kilonzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

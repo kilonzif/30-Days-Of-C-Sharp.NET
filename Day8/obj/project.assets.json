@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day 6\\Strings\\Strings.csproj",
-      "projectName": "Strings",
-      "projectPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day 6\\Strings\\Strings.csproj",
+      "projectUniqueName": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day8\\Dictionaries.csproj",
+      "projectName": "Dictionaries",
+      "projectPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day8\\Dictionaries.csproj",
       "packagesPath": "C:\\Users\\faith.kilonzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day 6\\Strings\\obj\\",
+      "outputPath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\30-Days-Of-C-Sharp.NET\\Day8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faith.kilonzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
