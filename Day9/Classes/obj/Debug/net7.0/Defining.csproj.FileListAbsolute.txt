@@ -1,0 +1,15 @@
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.csproj.AssemblyReference.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfoInputs.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfo.cs
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.csproj.CoreCompileInputs.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/bin/Debug/net7.0/Defining
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/bin/Debug/net7.0/Defining.deps.json
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/bin/Debug/net7.0/Defining.runtimeconfig.json
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/bin/Debug/net7.0/Defining.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/bin/Debug/net7.0/Defining.pdb
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/refint/Defining.dll
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.pdb
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/Defining.genruntimeconfig.cache
+/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Defining/obj/Debug/net7.0/ref/Defining.dll
