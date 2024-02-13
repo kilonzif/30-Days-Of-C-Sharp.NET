@@ -22,4 +22,4 @@ namespace Classes
             return $"{_name} by {_author}";
         }
     }
-}
+
