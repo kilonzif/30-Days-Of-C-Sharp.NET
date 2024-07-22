@@ -1,0 +1,15 @@
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.exe
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.deps.json
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.runtimeconfig.json
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.pdb
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.csproj.AssemblyReference.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.AssemblyInfo.cs
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\refint\TaskManagementSystem.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.pdb
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.genruntimeconfig.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Documents\PPersonal\30-Days-Of-C-Sharp.NET\day13\TaskManagementSystem\obj\Debug\net7.0\ref\TaskManagementSystem.dll
